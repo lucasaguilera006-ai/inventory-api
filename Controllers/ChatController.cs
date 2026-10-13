@@ -1,13 +1,13 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using InventarioAPI.Data;
-using InventarioAPI.Services;
-using InventarioAPI.Models;
-using InventarioAPI.DTOs;
+using InventoryAPI.Data;
+using InventoryAPI.Services;
+using InventoryAPI.Models;
+using InventoryAPI.DTOs;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.Extensions.Logging;
 
-namespace InventarioAPI.Controllers
+namespace InventoryAPI.Controllers
 {
     [Authorize]
     [ApiController]

@@ -3,10 +3,10 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using InventarioAPI.Data;
-using InventarioAPI.Models;
+using InventoryAPI.Data;
+using InventoryAPI.Models;
 
-namespace InventarioAPI.Controllers;
+namespace InventoryAPI.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

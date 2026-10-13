@@ -2,8 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using InventarioAPI.Data;
-using InventarioAPI.Services;
+using InventoryAPI.Data;
+using InventoryAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

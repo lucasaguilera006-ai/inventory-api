@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace InventarioAPI.Migrations
+namespace InventoryAPI.Migrations
 {
     /// <inheritdoc />
     public partial class RenameToEnglish : Migration

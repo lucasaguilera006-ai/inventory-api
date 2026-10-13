@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace InventarioAPI.Migrations
+namespace InventoryAPI.Migrations
 {
     /// <inheritdoc />
     public partial class AddUsers : Migration

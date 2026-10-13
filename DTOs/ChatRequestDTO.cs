@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace InventarioAPI.DTOs
+namespace InventoryAPI.DTOs
 {
     public class ChatRequestDTO
     {

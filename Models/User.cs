@@ -1,4 +1,4 @@
-namespace InventarioAPI.Models
+namespace InventoryAPI.Models
 {
     public class User
     {

@@ -1,11 +1,11 @@
-using InventarioAPI.Data;
-using InventarioAPI.Models;
+using InventoryAPI.Data;
+using InventoryAPI.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Text;
 using System.Text.Json;
 using System.Net;
 
-namespace InventarioAPI.Services
+namespace InventoryAPI.Services
 {
     public class GeminiService
     {

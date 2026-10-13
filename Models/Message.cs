@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace InventarioAPI.Models
+namespace InventoryAPI.Models
 {
     public class Message
     {

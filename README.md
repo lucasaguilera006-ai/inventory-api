@@ -1,4 +1,4 @@
-# InventarioAPI
+# InventoryAPI
 
 REST API for inventory management built with ASP.NET Core (.NET 9), Entity Framework Core and JWT authentication.
 

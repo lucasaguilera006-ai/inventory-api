@@ -80,7 +80,7 @@ Send `conversationId: null` to start a conversation, or reuse the returned id to
 
 ![GeminiService function calling](screenshot-gemini-service.png)
 
-![AI chat in action](screenshot-chat-gemini.png)
+![AI chat in action](screenshot-chat-gemini-v2.png)
 
 ## ▶️ Running locally
 

@@ -78,7 +78,7 @@ Send `conversationId: null` to start a conversation, or reuse the returned id to
 
 ![Swagger endpoints](screenshot-swagger-endpoints.png)
 
-![ProductsController code](screenshot-productos-controller.png)
+![GeminiService function calling](screenshot-gemini-service.png)
 
 ![AI chat in action](screenshot-chat-gemini.png)
 

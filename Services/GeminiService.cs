@@ -136,7 +136,6 @@ namespace InventoryAPI.Services
                 .GetProperty("content")
                 .GetProperty("parts")[0];
 
-        // An HttpRequestMessage cannot be resent, so a new one is built on every attempt.
         private async Task<JsonDocument> CallGeminiAsync(object body)
         {
             string json = JsonSerializer.Serialize(body);

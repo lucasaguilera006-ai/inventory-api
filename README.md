@@ -76,11 +76,11 @@ Send `conversationId: null` to start a conversation, or reuse the returned id to
 
 ## 📷 Screenshots
 
-![Swagger endpoints](screenshot-swagger-endpoints.png)
+![Swagger endpoints](screenshot-swagger-endpoints.jpg)
 
-![GeminiService function calling](screenshot-gemini-service.png)
+![GeminiService function calling](screenshot-gemini-service.jpg)
 
-![AI chat in action](screenshot-chat-gemini.png)
+![AI chat in action](screenshot-chat-gemini.jpg)
 
 ## ▶️ Running locally
 

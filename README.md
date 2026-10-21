@@ -88,8 +88,8 @@ Send `conversationId: null` to start a conversation, or reuse the returned id to
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/lucasaguilera006-ai/inventario-api
-cd inventario-api
+git clone https://github.com/lucasaguilera006-ai/inventory-api
+cd inventory-api
 dotnet restore
 ```
 

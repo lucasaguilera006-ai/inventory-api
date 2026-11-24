@@ -72,7 +72,7 @@ Send `conversationId: null` to start a conversation, or reuse the returned id to
 4. If Gemini needs another lookup (for example, with a different product name), the cycle repeats for up to 4 rounds.
 5. Gemini writes the final answer in natural language.
 
-> **Note:** the chat depends on the Gemini API. If the model is overloaded, the endpoint returns 502 (service error) or 504 (timeout). Retrying later or changing `Gemini:Model` usually fixes it.
+> **Note:** the chat depends on the Gemini API. On 429/503/504 errors the service retries with exponential backoff and falls back to the next model in the Gemini:Model list (comma-separated). If every model fails, the endpoint returns 502 or 504.
 
 ## 📷 Screenshots
 
